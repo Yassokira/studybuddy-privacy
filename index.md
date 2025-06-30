@@ -22,5 +22,9 @@ We use encryption and secure servers to protect your information.
 ## Your Rights
 You can request to view or delete your data at any time.
 
+### Want to delete your data?
+
+Please [click here to request data deletion](./delete-data.md).
+
 ## Contact Us
 support@studybuddygpt.com
